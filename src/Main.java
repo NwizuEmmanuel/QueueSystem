@@ -30,6 +30,7 @@ class Main {
                 queueOperations.displayQueue();
 //                kill switch
             } else if (choosenControl == 4) {
+                System.out.println("Good bye.");
                 break;
             } else {
                 System.out.println("invalid operation.");
